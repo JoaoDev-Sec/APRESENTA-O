@@ -53,4 +53,4 @@ Aqui compartilho meus estudos, laboratórios e projetos práticos relacionados �
 ## 📫 Contato
 
 - LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-6436b2314/)
-- GitHub: [Meus projetos](https://github.com/SEU_USUARIO)
+- GitHub: [Meus projetos](JoaoDev-Sec)
